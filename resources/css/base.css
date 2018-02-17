@@ -146,6 +146,11 @@ header {
   font-size: .875rem;
 }
 
+header > h1 {
+  font-size: 26px;
+  color: hsla(88, 100%, 25%, 1);
+}
+
 .search-bar {
   display: flex;
   width: 100%;
